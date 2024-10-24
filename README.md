@@ -1,2 +1,2 @@
-Orginal komm hierher:
+Original komm hierher:
 https://github.com/dersnyke/satipplaylists/tree/main
